@@ -63,7 +63,7 @@ public class ManageSettingsTest {
         Assert.assertEquals("personal info", actualPesonalDetailtxt.toLowerCase());
   }
   
- /* @Test
+  @Test
   public void AddNewService()
   {
 	  
@@ -92,7 +92,7 @@ public class ManageSettingsTest {
 	  
 	  //Assertion to be implemented here
 
-  }*/
+  }
   
   @BeforeTest
   public void beforeTest() {
